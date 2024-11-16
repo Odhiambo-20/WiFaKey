@@ -9,6 +9,8 @@ The source code is currently untidy; a cleaner version will be uploaded later on
 The source code is inspired by Jincheng Dai et al., *Learning to Decode Protograph LDPC Codes*.  
 Repository: https://github.com/KyrieTan/Neural-Protograph-LDPC-Decoding
 
+modelname = embeddings_adaface_ir101_webface12m, or other feature files. 
+
 --- 
 
 Let me know if you'd like any further adjustments!
